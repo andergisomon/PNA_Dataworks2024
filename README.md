@@ -1,4 +1,7 @@
 # Pat Nyem Ake' (PNA) Dataworks 2024
+
+![](/team_photos/Team_with_SV.jpg)
+
 Code and documentation for champion team Pat Nyem Ake' (PNA) solution for ExxonMobil Dataworks 2024.
 The dataset is not provided due to request from ExxonMobil. However, the dataset was structured as follows (reservoirs are random):
 ```
